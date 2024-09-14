@@ -1,0 +1,25 @@
+#res-for {
+    background-color: #b5e6e6;
+}
+*{
+    color: rgb(16, 14, 99);
+    background-color:#d4ecec;
+}
+legend{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+}
+fieldset{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+label{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
